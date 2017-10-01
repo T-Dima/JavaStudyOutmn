@@ -8,7 +8,7 @@ public class Short {
 //        Максимальная величина равна 32 767 (включительно) (215-1).
         short a = 10000, b = 20000, c;
 
-        c =(short) (a + b);
+        c = (short) (a + b);
         System.out.println(c);
     }
 }
